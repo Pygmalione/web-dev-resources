@@ -803,13 +803,14 @@ Accessibility (a11y) tools help make sure a site works for people using screen r
 | [Inclusive Components](https://inclusive-components.design/) | Worked examples of accessible UI patterns. |
 
 <details>
-<summary>Show all 8 tools</summary>
+<summary>Show all 9 accessibility resources</summary>
 
 | Name | Best for |
 |---|---|
 | [WAVE](https://wave.webaim.org/) | Visual, in-browser accessibility check, no setup. |
 | [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/) | Quickly check if text/background colors pass contrast rules. |
 | [Pa11y](https://pa11y.org/) | Run accessibility checks from the command line/CI. |
+| [Aeneia Signal accessibility guide](https://blog.aeneia.pl/dostepnosc-strony-firmowej) | Polish-language basics for checking keyboard access, contrast, and page structure. |
 
 </details>
 
